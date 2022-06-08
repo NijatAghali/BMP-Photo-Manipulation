@@ -13,12 +13,12 @@ all the pixels by maximizing factor. (*Maximizing factors can be
 obtained by dividing max. brightness by max. RGB values.)
 
 
-Valid Usage\n
-complie :
-gcc autoadjust.c -o autoadjust
+Valid Usage <br/>
+complie :<br/>
+gcc autoadjust.c -o autoadjust<br/><br/>
 
-run:
-./autoadjust source.bmp -o destination.bmp
+run:<br/>
+./autoadjust source.bmp -o destination.bmp<br/><br/>
 
-If you need help, use "-h" flag. 
+If you need help, use "-h" flag. <br/>
 ./autoadjust -h
