@@ -13,7 +13,7 @@ all the pixels by maximizing factor. (*Maximizing factors can be
 obtained by dividing max. brightness by max. RGB values.)
 
 
-Valid Usage
+Valid Usage\n
 complie :
 gcc autoadjust.c -o autoadjust
 
