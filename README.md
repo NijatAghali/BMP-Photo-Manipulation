@@ -11,3 +11,14 @@ need to subtract the minimum values of all RGB pixels. Moving
 to maximum contrast, in order to obtain that, we need to multiply
 all the pixels by maximizing factor. (*Maximizing factors can be
 obtained by dividing max. brightness by max. RGB values.)
+
+
+Valid Usage
+complie :
+gcc autoadjust.c -o autoadjust
+
+run:
+./autoadjust source.bmp -o destination.bmp
+
+If you need help, use "-h" flag. 
+./autoadjust -h
