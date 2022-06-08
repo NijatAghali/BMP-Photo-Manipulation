@@ -15,10 +15,10 @@ obtained by dividing max. brightness by max. RGB values.)
 
 Valid Usage <br/>
 complie :<br/>
-gcc autoadjust.c -o autoadjust<br/><br/>
+gcc autoadjust.c -o autoadjust<br/>
 
 run:<br/>
-./autoadjust source.bmp -o destination.bmp<br/><br/>
+./autoadjust source.bmp -o destination.bmp<br/>
 
 If you need help, use "-h" flag. <br/>
 ./autoadjust -h
